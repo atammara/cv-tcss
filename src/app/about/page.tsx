@@ -46,10 +46,10 @@ const Page = () => {
                                 <h6 className="font-semibold text-lg font-serif">JavaScript :</h6>
                                 <p className="text-sm sm:text-base">I have a skill level of <b>60%</b> in <b>JavaScript</b>, which empowers me to add interactivity to web projects.</p>
                             </div>
-                            <div className="flex flex-col sm:flex-row sm:items-center gap-2">
+                            <div className="flex flex-col sm:flex-row sm:items-center gap-1">
                                 <BsCircleFill className='pt-2'/>
                                 <h6 className="font-semibold text-lg font-serif">Tailwind CSS :</h6>
-                                <p className="text-sm sm:text-base">I excel in <b>Tailwind CSS</b> with a proficiency level of <b>75%</b>, helping me develop modern and responsive designs.</p>
+                                <p className="text-sm sm:text-base">I excel in <b>Tailwind CSS</b> with a proficiency level of <b>75%</b>,helping me develop modern & responsive designs.</p>
                             </div>
                             <div className="flex flex-col sm:flex-row sm:items-center gap-2">
                                 <BsCircleFill className='pt-2'/>
